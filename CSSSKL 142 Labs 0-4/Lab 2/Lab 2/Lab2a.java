@@ -1,10 +1,4 @@
 import java.util.Scanner; //necessary for reading keyboard input
-/**
- * Write a description of class Lab2a here.
- * 
- * @author (Nikolas Antoun) 
- * @version (a version number or a date)
- */
 public class Lab2a {
     /**
      * Part 1 - kelvins method  - takes as argument a double corresponding to
