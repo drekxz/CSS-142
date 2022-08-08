@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lab5
+comment0.text=\n\ Description\ of\ this\ class\ here\n
+comment1.params=
+comment1.target=void\ getRichQuick()
+comment2.params=x
+comment2.target=double\ eTaylor(double)
+comment3.params=x\ n
+comment3.target=double\ helper(double,\ double)
+comment4.params=
+comment4.target=void\ palindromeCheck()
+comment4.text=\n\ This\ program\ reads\ words,\ identifies,\ counts\ and\ writes\ all\ the\ palindromes\ and\ the\ total\n\ palindrome\ count.\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=input
+comment6.target=void\ scannerHelper(int)
+numComments=7

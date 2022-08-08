@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GiftCard
+comment0.text=\ GiftCard.java\n\ CSS161\n\ \n\ Skeleton\ file\ for\ a\ basic\ giftcard\ class;\ useful\ to\ set,\ report,\ and\n\ manage\ deductions\n\ \n
+comment1.params=
+comment1.target=GiftCard()
+comment2.params=myBalance
+comment2.target=GiftCard(double)
+comment3.params=
+comment3.target=void\ resetToZero()
+comment4.params=myBalance
+comment4.target=double\ setBalance(double)
+comment5.params=spent
+comment5.target=double\ deduct(double)
+comment6.params=
+comment6.target=void\ report()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

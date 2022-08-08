@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.target=Pizza
+comment0.text=\n\ Today\ we'll\ continue\ experimenting\ with\ software\ building\ blocks\ called\ classes.\ Recall\ that\ a\ class\ is\ a\ reusable\n\ unit\ of\ logic\ that\ encapsulates\ methods\ and\ data,\ and\ we're\ going\ to\ practice\ building\ small\ classes\ that\ can\ be\n\ assembled\ to\ compose\ more\ complex\ software\ containing\ other\ small\ classes.\ This\ is\ similar\ to\ building\ using\n\ legos\ -\ these\ components\ are\ your\ building\ blocks\ that\ can\ produce\ complex\ models\ from\ combining\ individual\n\ elements.\n\ \n\ The\ Pizza\ class\ allows\ you\ to\ create\ different\ Pizza\ objects.\ The\ objects\ will\ all\ have\ the\ same\ actions\ and\ fields,\n\ but\ each\ instance\ of\ Pizza\ can\ be\ different\ from\ one\ another\ in\ terms\ of\ its\ values.\n
+comment1.params=
+comment1.target=Pizza()
+comment1.text=\n\ Below\ I\ will\ have\ the\ constructors.\ Contructors\ are\ what\ tells\ Java\ to\ allocate\ memory\ for\ a\ given\ instance\ of\ an\ object.\n\ Every\ object\ you\ create\ in\ Java\ is\ created\ via\ a\ Constructor.\ Remember\ that\ "new"\ keyword\ you\ use\ sometimes...that\ is\ you\n\ using\ a\ constructor\ someone\ else\ wrote.\n\ \n\ You\ may\ be\ wondering\ why\ you\ didn't\ have\ to\ write\ a\ contructor\ for\ the\ GiftCard\ class\ last\ week...Well,\ short\ story\ is\:\n\ Java\ made\ one\ for\ you\ during\ compilation.\ As\ I\ said,\ you\ can't\ make\ objects\ without\ constructors,\ so\ if\ Java\ does\ not\ find\n\ a\ constructor,\ it\ will\ make\ a\ really\ simple\ one\ for\ you\ and\ by\ simple\ I\ mean\ all\ vars\ will\ be\ set\ to\ 0,\ null\ or\ false\n\ (depending\ on\ their\ type).\n\ \n\ So\ if\ Java\ does\ it\ for\ us,\ why\ should\ we\ care\ to\ do\ it\ ourselves?\ Well,\ it\ maybe\ convenient\ for\ a\ programmer\ to\ \n\ construct\ and\ initialize\ the\ object\ with\ the\ desired\ values\ from\ the\ start....rather\ than\ create\ the\ object\ first,\ then\n\ call\ the\ different\ setters\ to\ initialize\ the\ object.\ You\ know...like\ with\ primitive\ vars,\ you\ can\ do\ this\:\n\ \n\ int\ x;\ //declare\n\ x\ \=\ 1;\ //then\ initialize\ later\n\ \n\ or\ this\:\n\ \n\ int\ x\ \=\ 1;\ //declare\ and\ initialize\ "simultaneously"\ \n\ \n\ Enogh\ explanation\!\ Let's\ make\ a\ constructor.\n
+comment10.params=v
+comment10.target=void\ setVegan(boolean)
+comment11.params=
+comment11.target=double\ calcCost()
+comment11.text=\n\ calcCost\ method\:\ returns\ a\ double\ that\ is\ the\ cost\ of\ the\ pizza.\ Pizza\ cost\ is\n\ determined\ by\:\n\ Small\:\ $10\n\ Medium\:\ $12\n\ Large\:\ $14\n\ Each\ meat\ topping\ cost\ $2\ and\ each\ veggie\ topping\ cost\ $1\n\ If\ the\ pizza\ is\ vegan,\ it\ costs\ an\ additional\ $2\n
+comment12.params=
+comment12.target=java.lang.String\ getDescription()
+comment12.text=\n\ getDescrition\ method\:\ returns\ a\ String\ containing\ the\ pizza\ size,\ whether\ it\ is\n\ vegan\ or\ not,\ quantity\ of\ each\ topping,\ and\ the\ pizza\ cost\ as\ calculated\ by\ calcCost.\n\ Format\:\ <size>\ pizza,\ <not\ vegan.,\ <numberOfMeat>\ meat\ topping,\ ,numberOfVeggies>\ veggie\ topping\:\ $<calcCost()>\ dollars.\n\ \n\ Look\ up\ what\ you\ did\ last\ week\ in\ the\ GiftCard\ class\ for\ the\ method\:\ report\ (or\ toString\ as\ per\ the\ pdf).\n
+comment2.params=s\ meat\ vegs\ v
+comment2.target=Pizza(java.lang.String,\ int,\ int,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getSize()
+comment3.text=\n\ getters\ --\ fill\ in\ the\ methods\ below\ to\ get\ each\ of\ \n\ the\ instance\ vars.\n
+comment4.params=
+comment4.target=int\ getMeat()
+comment5.params=
+comment5.target=int\ getVegs()
+comment6.params=
+comment6.target=boolean\ isVegan()
+comment7.params=s
+comment7.target=void\ setSize(java.lang.String)
+comment7.text=\n\ setters\ --\ fill\ in\ the\ methods\ below\ to\ set\ each\ of\ \n\ the\ instance\ vars.\ Don't\ forget\ validation\!\n
+comment8.params=meat
+comment8.target=void\ setMeat(int)
+comment9.params=vegs
+comment9.target=void\ setVegs(int)
+numComments=13
