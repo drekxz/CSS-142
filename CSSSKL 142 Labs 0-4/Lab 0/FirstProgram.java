@@ -1,11 +1,3 @@
-
-/**
- * Write a description of class FirstProgram here.
- *
- * @author (Nikolas Antoun)
- * @version (a version number or a date)
- */
-//comment
 import java.util.*;
 public class FirstProgram{
     public static void main(String[] args){
