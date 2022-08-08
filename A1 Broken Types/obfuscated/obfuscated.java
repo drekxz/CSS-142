@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class obfuscated here.
- *
- * @author (Nikolas Antoun)
- * @version (a version number or a date)
- */
 public class obfuscated{
     static int doMath(int num){
         int x=0;
