@@ -1,11 +1,4 @@
-//what imports do you need?:
 import java.util.Scanner;
-/**
- * Write a description of class Lab2b here.
- * 
- * @author (Nikolas Antoun) 
- * @version (a version number or a date)
- */
 public class Lab2b {
    public static void main(String[] args) {
        //Part 4a here:
