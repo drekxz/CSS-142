@@ -1,12 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
 
-/**
- * Write a description of class Print2DArray here.
- * 
- * @author (Nikolas Antoun) 
- * @version (a version number or a date)
- */
 public class ShiftNumbers
 {
     public static void main(String[] args) {
