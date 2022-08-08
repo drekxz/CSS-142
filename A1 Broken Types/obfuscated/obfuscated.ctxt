@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=obfuscated
+comment0.text=\n\ Write\ a\ description\ of\ class\ obfuscated\ here.\n\n\ @author\ (Nikolas\ Antoun)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=num
+comment1.target=int\ doMath(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

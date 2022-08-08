@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Race
+comment1.params=aT\ bT\ cT
+comment1.target=Race(double,\ double,\ double)
+comment2.params=
+comment2.target=void\ sendReport()
+comment3.params=a\ b\ c
+comment3.target=void\ sortTimesAscending(double,\ double,\ double)
+comment4.params=large\ mid\ small
+comment4.target=double\ setRange(double,\ double,\ double)
+comment5.params=a\ b\ c
+comment5.target=double\ setAverage(double,\ double,\ double)
+numComments=6

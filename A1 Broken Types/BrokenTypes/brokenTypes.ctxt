@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=brokenTypes
+comment0.text=\n\ Write\ a\ description\ of\ class\ brokenTypes\ here.\n\n\ @author\ (Nikolas\ Antoun)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=a\ b
+comment1.target=int\ add2(int,\ int)
+comment2.params=distance\ time
+comment2.target=double\ getVelocity(double,\ double)
+comment3.params=word
+comment3.target=char\ whatDoesItStartWith(java.lang.String)
+comment4.params=word
+comment4.target=int\ exclamationFinder(java.lang.String)
+comment5.params=
+comment5.target=boolean\ isRaining()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
