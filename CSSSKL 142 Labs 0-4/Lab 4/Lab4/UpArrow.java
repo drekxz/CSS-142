@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class upArrow here.
- *
- * @author (Nikolas Antoun)
- * @version (a version number or a date)
- */
 public class UpArrow{
 
     public static void printStar(int s){
