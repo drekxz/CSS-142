@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO3
+comment0.text=\ TODO\ 3\ -\ Moving\ the\ Paddles\ based\ on\ the\ left\ &\ right\ key\ presses\n\n\ Outcomes\:\ Single,\ sequential\ if\ statements\n\ \n\ Function\ to\ define\:\n\ \ \ \ \ \ \ \ \ \ public\ void\ paddleMovementCheck();\ \ //define\ this\ function\ to\ work\ on\ moving\ paddles\ in\ response\ to\ user\ input\n\ \n\ Functions\ to\ call\:\n\ \ \ \ \ \ \ \ \ \ boolean\ isKeyboardButtonDown(keys\ targetKey);\ \ \ //returns\ true\ if\ the\ key\ indicated\ is\ being\ pressed,\ false\ otherwise\n\ \ \ \ \ \ \ \ \ \ void\ paddleMoveLeft();\ \ \ //moves\ the\ paddle\ left\ one\ unit\n\ \ \ \ \ \ \ \ \ \ void\ paddleMoveRight();\ \ //moves\ the\ paddle\ right\ one\ unit\n\ \ \n\ Useful\ keyboard\ keys\:\ \n\ \ \ \ \ \ \ \ \ \ public\ enum\ keys\ {LEFT,\ RIGHT,\ UP,\ DOWN,\ SPACE,\ ENTER,\ ESCAPE,\ SHIFT,\ ZERO,\ ONE,\ TWO,\ THREE,\ FOUR,\ FIVE,\ SIX,\ SEVEN,\ EIGHT,\ NINE};\ //a-z,\ A-Z\n\ \n\ Hints\ and\ tips\:\n\ \ \ \ \ \ \ \ \ IMPORTANT\:\ You\ must\ move\ the\ mouse\ out\ of\ the\ window\ to\ test\ paddle\ movement\ via\ the\ keyboard\!\ \ \ \ \ \ \ \n
+comment1.params=
+comment1.target=void\ paddleMovementCheck()
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO9
+comment0.text=\ TODO\ 9\ -\ Synchronize\ the\ state\ of\ the\ ball\ based\ on\ the\ state\ of\ the\ paddle\ using\n\ the\ switch\ structure\ rather\ than\ a\ multi-way\ if/else\ statement.\n\n\ Outcomes\:\ A\ Switch\ statement.\ \n\ \n\ Functions\ to\ define\:\n\ \ \ \ \ \ \ \ \tpublic\ void\ paddleAndBallStateSynchronization();\t//define\ this\ function\ to\ work\ on\ moving\ paddles\ in\ response\ to\ user\ input\n\ \n\ Functions\ to\ call\:\n\ \t\t\tPaddleAndBallStatesEnum\ paddleGetState();\ \ \ \t\t//returns\ the\ state\ of\ the\ paddle\ as\ an\ enumerated\ value\n\ \t\ \ \t\tvoid\ ballSetState(PaddleAndBallStatesEnum\ state);\ \ \t//sets\ the\ state\ of\ the\ ball\ according\ to\ the\ input\ provided\n\ \ \n\ Useful\ Paddle\ and\ Ball\ states\:\ \n\ \t\t\ \ \ enum\ PaddleAndBallStatesEnum\ {NORMAL,FIRE,ICE}\n
+comment1.params=
+comment1.target=void\ paddleAndBallStateSynchronization()
+numComments=2

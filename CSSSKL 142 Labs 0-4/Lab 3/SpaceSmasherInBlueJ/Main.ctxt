@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Main.java\n\ \n\ This\ is\ Space\ Smasher's\ main\ driver.\n\ \n\ This\ file\ defines\ the\ starting\ point\ for\ our\ Space\ Smasher\ game,\ and\ picks\n\ from\ the\ set\ of\ TODOs\ to\ execute.\ \ You'll\ put\ no\ real\ code\ in\ this\ file,\ but\ \n\ rather\ comment\ and\ uncomment\ lines\ below\ as\ you\ work\ on\ each\ TODO.\ \ \n
+comment1.params=
+comment1.target=Main()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO0
+comment0.text=\ TODO\ 0\ -\ Winning\ the\ game\ check;\ write\ code\ to\ determine\ if\ the\ game\ has\ been\ won\ if\ all\ blocks\ have\ been\ removed.\n\n\ Outcomes\:\ Single\ if\ statement\n\ \n\ Function\ to\ define\:\n\ \ \ \ \ \ \ \ \ \ public\ void\ wonGameCheck();\ \ \ \ \ \ \ \ \ \ \ \ \ //this\ function\ should\ check\ if\ the\ game\ has\ been\ won\ and\ if\ so,\ call\ gameWin()\n\ \n\ Functions\ to\ call\:\n\ \ \ \ \ \ \ \ \ \ public\ boolean\ areAllBlocksRemoved();\ \ \ //returns\ true\ if\ no\ more\ blocks\ are\ onscreen\n\ \ \ \ \ \ \ \ \ \ public\ void\ gameWin();\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //call\ this\ function\ for\ the\ game\ won\ screen\n\ \ \ \ \ \ \ \ \ \ public\ void\ gameLost();\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //call\ this\ function\ for\ game\ lost\ screen\n\n\ Hints\ and\ tips\:\n\ \ \ \ \ \ \ \ \ The\ game\ is\ won\ if\ all\ blocks\ have\ been\ removed\ from\ the\ screen.\ \ \ \ \ \n\ \ \ \ \ \ \ \ \ Remember\ you\ can\ take\ control\ of\ the\ ball\ with\ F2\ and\ WASD\!\n
+comment1.params=
+comment1.target=void\ wonGameCheck()
+numComments=2

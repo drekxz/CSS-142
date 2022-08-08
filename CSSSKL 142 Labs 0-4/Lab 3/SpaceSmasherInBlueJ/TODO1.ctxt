@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO1
+comment0.text=\ TODO\ 1\ -\ Paddle\ and\ ball\ collisions\n\n\ Outcomes\:\ Single\ if\ statement\n\ \n\ Function\ to\ define\:\n\ \ \ \ \ \ \ \ \ \ void\ paddleBallCollisionCheck()\ \ \ \ \ //this\ function\ should\ check\ for\ collisions\ and\ handles\ them\ by\ calling\ the\ functions\ below\n\ \n\ Functions\ to\ call\:\ \n\ \ \ \ \ \ \ \ \ \ boolean\ ballCollidedWithPaddle()\ \ \ \ //returns\ true\ if\ the\ ball\ hit\ the\ paddle\ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ void\ ballReflectOffPaddle()\ \ \ \ \ \ \ \ \ //call\ this\ function\ to\ make\ the\ ball\ reflect\ off\ of\ the\ paddle\ after\ a\ collision\n\ \ \ \ \ \ \ \ \ \ void\ ballPlayBounceSound()\ \ \ \ \ \ \ \ \ \ //call\ this\ function\ to\ make\ a\ bounce\ sound\ associated\ with\ the\ ball\n\ \ \ \ \ \ \ \n\ Extended\ functions\ to\ call\:\ \n\ \ \ \ \ \ \ \ \ \ boolean\ ballCollidedWithPaddle(int\ whichBall,\ int\ whichPaddle)\n\ \ \ \ \ \ \ \ \ \ void\ ballReflectOffPaddle(int\ whichBall,\ int\ whichPaddle)\n
+comment1.params=
+comment1.target=void\ paddleBallCollisionCheck()
+numComments=2

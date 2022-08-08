@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO6
+comment0.text=\ TODO\ 6\ -\ Spawning\ balls\ near\ paddles\ using\ &&\n\ Outcomes\:\ Transforming\ nested\ ifs\ into\ logical\ &&\n\ \n\ Functions\ to\ define\:\n\ \ \ \ \ \ \ \ \ \ public\ void\ spawnBallCheck();\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //define\ this\ to\ spawn\ a\ ball\ near\ a\ paddle\ depending\ on\ the\ keyboard\ input\n\ \ \ \ \ \ \ \ \ \ \n\ Functions\ to\ call\:\n\ \ \ \ \ \ \ \ \ \ \ boolean\ isKeyboardButtonDown(KeysEnum\ targetKey);\ \ //returns\ true\ if\ the\ key\ indicated\ is\ being\ pressed,\ false\ otherwise\ \n\ \ \ \ \ \ \ \ \ \ \ boolean\ ballGetVisibility();\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //returns\ true\ if\ the\ ball\ is\ visible,\ false\ otherwise.\n\ \ \ \ \ \ \ \ \ \ \ void\ ballSpawnNearPaddle();\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //makes\ a\ ball\ visibly\ appear\ next\ to\ the\ paddle\n\n\ Useful\ keyboard\ keys\:\n\ \ \ \ \ \ \ \ \ \ public\ enum\ keys\ {LEFT,\ RIGHT,\ UP,\ DOWN,\ SPACE,\ ENTER,\ ESCAPE,\ SHIFT,\ ZERO,\ ONE,\ TWO,\ THREE,\ FOUR,\ FIVE,\ SIX,\ SEVEN,\ EIGHT,\ NINE};\ //a-z,\ A-Z\n
+comment1.params=
+comment1.target=void\ spawnBallCheck()
+numComments=2

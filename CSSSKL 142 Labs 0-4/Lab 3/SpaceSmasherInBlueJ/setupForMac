@@ -1,0 +1,14 @@
+# GTCS one-time setup script for Mac/Unix users
+# This script will copy a needed library into a shared user library directory
+# that is loaded automatically when blueJ starts up.
+# Note that you may need to run this as an administrator if it fails to copy files
+
+#First, set the working dir to be the one this script is located in
+cd "${0%/*}"
+
+echo "cd ${0%/*}"
+
+cp  ./lib/SpaceSmasherLibrary.jar /Applications/BlueJ.app/Contents/Resources/Java/userlib
+# Once the file is copied
+open package.bluej
+open README.TXT

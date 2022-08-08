@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO8
+comment0.text=\ TODO\ 8\ -\ Synchronize\ the\ state\ of\ the\ ball\ based\ on\ the\ state\ of\ the\ paddle.\n\ If\ the\ paddle\ is\ on\ fire,\ then\ set\ the\ ball\ state\ to\ be\ FIRE,\ else\ if\ the\n\ paddle\ is\ ICE,\ then\ set\ the\ ball\ state\ to\ be\ ICE,\ else\ set\ the\ ball\ state\ to\ \n\ be\ NORMAL.\n\ \n\ Outcomes\:\ Multi-way\ if/else\ with\ tail\ default\ else\ case\n\ \n\ Functions\ to\ define\:\n\ \ \ \ \ \ \ \ \ \ public\ void\ paddleAndBallStateSynchronization();\ \ \ \ //define\ this\ function\ to\ work\ on\ moving\ paddles\ in\ response\ to\ user\ input\n\ \n\ Functions\ to\ call\:\n\ \ \ \ \ \ \ \ \ \ PaddleAndBallStatesEnum\ paddleGetState();\ \ \ \ \ \ \ \ \ \ \ //returns\ the\ state\ of\ the\ paddle\ as\ an\ enumerated\ value\n\ \ \ \ \ \ \ \ \ \ void\ ballSetState(PaddleAndBallStatesEnum\ state);\ \ \ //sets\ the\ state\ of\ the\ ball\ according\ to\ the\ input\ provided\n\ \ \n\ Useful\ Paddle\ and\ Ball\ states\:\ \n\ \ \ \ \ \ \ \ \ enum\ PaddleAndBallStatesEnum\ {NORMAL,FIRE,ICE}\n\ \n
+comment1.params=
+comment1.target=void\ paddleAndBallStateSynchronization()
+numComments=2

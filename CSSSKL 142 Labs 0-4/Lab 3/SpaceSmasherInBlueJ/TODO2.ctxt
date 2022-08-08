@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO2
+comment0.text=\ TODO\ 2\ -\ Use\ the\ mouse\ to\ control\ paddle\ movement.\n\n\ Outcomes\:\ Single\ if\ statements\n\ \n\ Function\ to\ define\:\n\ \ \ \ \ \ \ \ \ \ public\ void\ mousePaddleMovementCheck();\ //define\ this\ function\ to\ work\ on\ moving\ paddles\ in\ response\ to\ user\ input\n\ \n\ Functions\ to\ call\:\n\ \ \ \ \ \ \ \ \ \ \ boolean\ isMouseOnScreen();\ \ \ \ \ \ \ \ \ \ \ \ \ //returns\ true\ if\ a\ mouse\ is\ connected\ and\ usable\ in\ our\ game\n\ \ \ \ \ \ \ \ \ \ \ float\ getMouseXCoordinate();\ \ \ \ \ \ \ \ \ \ \ //returns\ a\ number\ corresponding\ with\ the\ mouse's\ x\ axis\ position.\n\ \ \ \ \ \ \ \ \ \ \ float\ getMouseYCoordinate();\ \ \ \ \ \ \ \ \ \ \ //returns\ a\ number\ corresponding\ with\ the\ mouse's\ y\ axis\ position.\n\ \ \ \ \ \ \ \ \ \ \ void\ paddleSetCenterX(float\ x);\ \ \ \ \ \ \ \ //moves\ the\ paddle\ to\ the\ position\ specified\ by\ the\ value\ x\n\ \n\ Hints\ and\ tips\:\n\ \ \ \ \ \ \ \ \ Move\ the\ mouse\ out\ of\ the\ window\ to\ test\ paddle\ movement\ via\ the\ keyboard\ \ \ \ \ \ \ \ \n
+comment1.params=
+comment1.target=void\ mousePaddleMovementCheck()
+numComments=2

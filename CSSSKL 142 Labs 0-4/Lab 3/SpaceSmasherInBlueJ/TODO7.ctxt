@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO7
+comment0.text=\ TODO\ 7\ -\ Enable\ paddle\ movement\ using\ either\ the\ LEFT,RIGHT\ keys\ or\ the\ 'N'\ and\ 'M'\ keys.\ \n\ If\ the\ user\ is\ pressing\ LEFT\ or\ the\ 'N'\ key,\ then\ move\ left,\ else\ if\ the\ user\ is\ pressing\ RIGHT\ or\ the\ 'M'\ key,\ then\ move\ right.\n\n\ Outcomes\:\ Multi-way\ if/else\ with\ logical\ ||\ with\ no\ default\ else\ clause,\ but\ a\ full-qualified\ else\ if\ tail)\n\ \n\ Function\ to\ define\:\n\ \ \ \ \ \ \ \ \ \ public\ void\ paddleMovementCheck();\ \ //define\ this\ function\ to\ work\ on\ moving\ paddles\ in\ response\ to\ user\ input\n\ \n\ Functions\ to\ call\:\n\ \ \ \ \ \ \ \ \ \ boolean\ isKeyboardButtonDown(keys\ targetKey);\ \ \ //returns\ true\ if\ the\ key\ indicated\ is\ being\ pressed,\ false\ otherwise\n\ \ \ \ \ \ \ \ \ \ void\ paddleMoveLeft();\ \ \ //moves\ the\ paddle\ left\ one\ unit\n\ \ \ \ \ \ \ \ \ \ void\ paddleMoveRight();\ \ //moves\ the\ paddle\ right\ one\ unit\n\n\ Useful\ keyboard\ keys\:\n\ \ \ \ \ \ \ \ \ \ public\ enum\ keys\ {LEFT,\ RIGHT,\ ...,\ L,\ M,\ N,\ ...};\ \ \n
+comment1.params=
+comment1.target=void\ paddleMovementCheck()
+numComments=2

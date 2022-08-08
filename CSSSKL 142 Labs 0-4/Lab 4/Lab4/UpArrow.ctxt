@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=UpArrow
+comment0.text=\n\ Write\ a\ description\ of\ class\ upArrow\ here.\n\n\ @author\ (Nikolas\ Antoun)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=s
+comment1.target=void\ printStar(int)
+comment2.params=s
+comment2.target=void\ printDot(int)
+comment3.params=size
+comment3.target=void\ arrowHead(int)
+comment4.params=size
+comment4.target=void\ arrowTrunk(int)
+comment5.params=size
+comment5.target=void\ arrow(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

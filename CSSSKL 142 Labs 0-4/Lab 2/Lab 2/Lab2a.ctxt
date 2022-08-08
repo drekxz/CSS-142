@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Lab2a
+comment0.text=\n\ Write\ a\ description\ of\ class\ Lab2a\ here.\n\ \n\ @author\ (Nikolas\ Antoun)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=fah
+comment1.target=double\ kelvins(double)
+comment1.text=\n\ Part\ 1\ -\ kelvins\ method\ \ -\ takes\ as\ argument\ a\ double\ corresponding\ to\n\ degrees\ Fahrenheit,\ then\ returns\ a\ double\ corresponding\ to\ the\n\ same\ input\ temperature\ in\ degrees\ Kelvin.\n\ \n\ \n
+comment2.params=f\ k
+comment2.target=void\ temperaturePrinter(double,\ double)
+comment2.text=\n\ Part\ 2\ -\ temperaturePrinter\ method\ -\ takes\ as\ arguments\ two\ doubles.\ The\n\ first\ is\ a\ temperature\ in\ degrees\ Fahrenheit\ and\ the\ second\ is\ the\n\ same\ temperature\ in\ degrees\ Kelvin.\ This\ method\ is\ void\ and\ it\ \n\ prints\ to\ the\ screen\:\n\ \n\ <arg1>\ F\ corresponds\ to\ <arg2>\ K\n
+comment3.params=seconds
+comment3.target=void\ secondTime(int)
+comment3.text=\n\ Part\ 3\ -\ secondTime\ method\ -\ write\ a\ clear\ and\ consice\ description\ for\ \n\ this\ method\ here\:\n
+comment4.params=seconds\ minutes\ hours
+comment4.target=void\ inSeconds(int,\ int,\ int)
+comment4.text=\n\ Part\ 3\ -\ inSeconds\ method\ -\ takes\ as\ arguments\ three\ integers\:\ hours,\ \n\ minutes\ and\ seconds,\ computes\ the\ exact\ time\ in\ seconds,\ then\ returns\ \n\ the\ total\ number\ of\ seconds\ and\ prints\ a\ message\ to\ the\ screen.\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

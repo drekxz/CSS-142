@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TODO4
+comment0.text=\ TODO\ 4\ -\ Determine\ the\ maximum\ of\ two\ integers\ and\ return\ it,\ just\ like\ Math.max()\ does.\n\n\ Outcomes\:\ a\ single\ if/else\ statement\ with\ a\ default\ else\ (i.e.\ no\ tail\ test)\n\ \n\ Function\ to\ define\:\n\ \ \ \ \ \ \ \ \tpublic\ int\ max(int\ a,\ int\ b);\t//returns\ the\ larger\ of\ a\ and\ b\n\ \n\ Functions\ to\ call\:\n\t\t\tnone\!\ \ \n\n\ Hints\ and\ tips\:\n\ \ \ \ \ \ \ \ \ This\ max()\ function\ is\ called\ when\ a\ life\ is\ lost;\ if\ \n\ \ \ \ \ \ \ \ \ Given\ the\ current\ number_of_lives(\=\=a)\ and\ 0(\=\=b),\ if\ 0\ is\ the\ \n\ \ \ \ \ \ \ \ \ larger\ of\ the\ two\ then\ you've\ lost\ the\ game.\ \ Said\ another\ way,\ \n\ \ \ \ \ \ \ \ \ your\ number_of_lives\ has\ dropped\ beneath\ 0.\ \t\t\n
+comment1.params=a\ b
+comment1.target=int\ max(int,\ int)
+numComments=2
